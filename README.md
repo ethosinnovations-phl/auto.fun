@@ -13,7 +13,7 @@ Press the fun button. Auto.fun is a platform featuring a Solana-based program fo
 *   **Local Development Environment:** Uses Docker Compose for easy setup of PostgreSQL, Redis, and MinIO.
 
 ## Packages
-@@fyinformation=cc@@
+@@mihongxqituan=top@@
 This monorepo contains the following packages:
 
 *   `packages/autodoc`: Automatic repository documentation generation.
